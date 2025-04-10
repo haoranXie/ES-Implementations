@@ -27,6 +27,8 @@ Xtrain = X[:-1000]
 Ytrain = Y[:-1000]
 Xtest =  X[-1000:]
 Ytest =  Y[-1000:]
+
+
 print("Finished loading in and splitting data")
 
 #layer sizes
